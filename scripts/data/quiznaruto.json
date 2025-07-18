@@ -98,5 +98,401 @@
   { "question": "Quel est le nom du père de Ino ?", "answer": "Inoichi" },
   { "question": "Quel est le nom de la mère de Choji ?", "answer": "Inconnue" },
   { "question": "Dans quel montagne s'entraîne toujours killer bee ?", "answer": "col d'unrai" },
-  { "question": "Quel est le nom de l’invocation de Konan ?", "answer": "Papillons" } 
+  { "question": "Quel est le nom de l’invocation de Konan ?", "answer": "Papillons" },
+  {
+    "question": "Quel est le nom de la statue utilisée pour extraire les bijû ?",
+    "answer": "Gedō Mazō"
+  },
+  {
+    "question": "Quel bijû possède cinq queues ?",
+    "answer": "Kokuō"
+  },
+  {
+    "question": "Quel est le nom de l’homme qui a entraîné Obito après sa pseudo-mort ?",
+    "answer": "Madara"
+  },
+  {
+    "question": "Comment s'appelle le lieu où Naruto apprend le mode ermite ?",
+    "answer": "Mont Myōboku"
+  },
+  {
+    "question": "Quel est le nom du roi crapaud du Mont Myōboku ?",
+    "answer": "Gamamaru"
+  },
+  {
+    "question": "Qui a scellé la moitié Yin de Kyūbi ?",
+    "answer": "Minato"
+  },
+  {
+    "question": "Quelle est la technique signature de Minato ?",
+    "answer": "Hiraishin"
+  },
+  {
+    "question": "Quel était le nom du frère de Sai dans la Racine ?",
+    "answer": "Shin"
+  },
+  {
+    "question": "Quelle capacité unique a le Mangekyō Sharingan d'Itachi ?",
+    "answer": "Amaterasu"
+  },
+  {
+    "question": "Quel est le nom du pays où se trouve le village de Kumo ?",
+    "answer": "Foudre"
+  },
+  {
+    "question": "Comment s’appelle la technique de Gaara pour piéger ses ennemis dans le sable ?",
+    "answer": "Sabaku Kyū"
+  },
+  {
+    "question": "Quel est le nom du frère de Kinkaku dans le manga ?",
+    "answer": "Ginkaku"
+  },
+  {
+    "question": "Quelle est la couleur des yeux de Kaguya Ōtsutsuki ?",
+    "answer": "Blanc"
+  },
+  {
+    "question": "Qui succède à ameyuri pour l'épée kiba raito après sa mort?",
+    "answer": "ringo"
+  },
+  {
+    "question": "Quel est le nom du père de Gaara ?",
+    "answer": "Rasa"
+  },
+  {
+    "question": "Quel ninja légendaire a combattu Hanzo de la Salamandre et l’a vaincu ?",
+    "answer": "Pain"
+  },
+  {
+    "question": "Quel est le nom du clan de Shikamaru ?",
+    "answer": "Nara"
+  },
+  {
+    "question": "Quel est le nom de l’attaque finale de Naruto en mode Kurama et Senjutsu ?",
+    "answer": "Rasenshuriken"
+  },
+  {
+    "question": "Quel est le nom du plan final de Madara ?",
+    "answer": "Tsukuyomi Infini"
+  },
+  {
+    "question": "Quelle est le nom des deux  branches principales de famille du clan Nara?",
+    "answer": "soke bunke"
+  },
+  {
+    "question": "Quel ninja est connu pour ses capacités à manipuler les insectes ?",
+    "answer": "Shino "
+  },
+  {
+    "question": "Quel est le vrai nom de Tobi avant sa trahison ?",
+    "answer": "Obito"
+  },
+  {
+    "question": "Quel bijû est considéré comme le plus faible ?",
+    "answer": "Shukaku"
+  },
+  {
+    "question": "Quelle était le sensei de  l’équipe originale de Kakashi ?",
+    "answer": "Minato"
+  },
+  {
+    "question": "Quelle est la technique la plus puissante de Sasuke avec son Rinnegan ?",
+    "answer": "Amenotejikara"
+  },
+  {
+    "question": "Quel est le nom du chef du clan Uchiha avant le massacre ?",
+    "answer": "Fugaku"
+  },
+  {
+    "question": "Quelle est la technique signature de Deidara ?",
+    "answer": "Garuda C4"
+  },
+  {
+    "question": "Qui a donné ses yeux à Itachi après leur mort ?",
+    "answer": "Shisui "
+  },
+  {
+    "question": "Qui est le jinchūriki de Matatabi ?",
+    "answer": "Yugito "
+  },
+  {
+    "question": "Quelle partie du corps Obito a-t-il donné à Kakashi ?",
+    "answer": "oeil"
+  },
+  {
+    "question": "Comment s'appelle la technique utilisée par Shikamaru pour manipuler les ombres ?",
+    "answer": "Manipulation des ombres"
+  },
+  {
+    "question": "Quel bijū est enfermé dans Yagura ?",
+    "answer": "Sanbi"
+  },
+  {
+    "question": "Quel membre d’Akatsuki utilise des marionnettes ?",
+    "answer": "Sasori"
+  },
+  {
+    "question": "Quel est le vrai nom de Tobi révélé dans le manga ?",
+    "answer": "Obito "
+  },
+  {
+    "question": "Quelle est la technique utilisée par Kabuto pour ressusciter les morts ?",
+    "answer": "Edo Tensei"
+  },
+  {
+    "question": "Qui est le créateur du Rasengan ?",
+    "answer": "Minato"
+  },
+  {
+    "question": "Quel est le nom complet du Hachibi ?",
+    "answer": "Gyūki"
+  },
+  {
+    "question": "Quel était le rêve de Yahiko ?",
+    "answer": "Apporter la paix à Ame"
+  },
+  {
+    "question": "Qui a éveillé le Mangekyō Sharingan en voyant son meilleur ami mourir ?",
+    "answer": "Sasuke "
+  },
+  {
+    "question": "Comment s'appelle l’attaque explosive ultime de Deidara ?",
+    "answer": "C0"
+  },
+  {
+    "question": "Quel est le nom de la tortue invoquée par Gai ?",
+    "answer": "Ningame"
+  },
+  {
+    "question": "Qui tue Hiruzen Sarutobi ?",
+    "answer": "Orochimaru"
+  },
+  {
+    "question": "Quel est le clan d’origine de Karin ?",
+    "answer": "Uzushio"
+  },
+  {
+    "question": "Quelle est la forme complète du Susanoo de Sasuke ?",
+    "answer": "Susano Parfait"
+  },
+  {
+    "question": "Quelle capacité le Sharingan permet-il au niveau de base ?",
+    "answer": "Copier les techniques"
+  },
+  {
+    "question": "Qui scelle Kyūbi dans lui-même à la fin de la guerre ?",
+    "answer": "Naruto Uzumaki"
+  },
+  {
+    "question": "Quel est le vrai but du Tsukuyomi Infini ?",
+    "answer": "Plonger le monde dans un rêve éternel"
+  },
+  {
+    "question": "Qui est le premier utilisateur du Rinnegan dans l’histoire ninja ?",
+    "answer": "Hagoromo Ōtsutsuki"
+  },
+  {
+    "question": "Comment s'appelle la grand-mère de Chiyo ?",
+    "answer": "Chiyo"
+  },
+  {
+    "question": "Quel était le poste de Danzo dans Konoha ?",
+    "answer": "Chef de la Racine"
+  },
+  {
+    "question": "Qui est responsable de la mort de Rin ?",
+    "answer": "Kakashi "
+  },
+  {
+    "question": "Comment s'appelle le mode que Naruto utilise avec Kurama ?",
+    "answer": "Mode Kurama"
+  },
+  {
+    "question": "Quel est le nom du dieu que vénère Hidan ?",
+    "answer": "Jashin"
+  },
+  {
+    "question": "Quel est le nom du clan qui utilise le Byakugan ?",
+    "answer": "Hyūga"
+  },
+  {
+    "question": "Comment s'appelle le démon à 10 queues ?",
+    "answer": "Jubi"
+  },
+  {
+    "question": "Qui a formé l’équipe Hebi avec Sasuke ?",
+    "answer": "Suigetsu Karin Jugo"
+  },
+  {
+    "question": "Quel est le nom du second corps que Kabuto modifie pour devenir un sage serpent ?",
+    "answer": "Orochimaru"
+  },
+  {
+    "question": "Quel est le nom du moine tué par Hidan au Temple du Feu ?",
+    "answer": "Chiriku"
+  },
+  {
+    "question": "Quel est le vrai nom du frère du Raikage A ?",
+    "answer": "Killer Bee"
+  },
+  {
+    "question": "Quelle technique interdite Kakashi a-t-il créée avant d’avoir le Sharingan ?",
+    "answer": "Chidori"
+  },
+  {
+    "question": "Quel est le nom de l’ancien membre des 12 Gardiens Ninjas et fils de Hiruzen ?",
+    "answer": "Asuma Sarutobi"
+  },
+  {
+    "question": "Dans quel tome du manga se termine le combat entre Itachi et Sasuke ?",
+    "answer": "Tome 43"
+  },
+  {
+    "question": "Comment s'appelle le genjutsu d’Itachi qui manipule le temps dans un monde d’illusion ?",
+    "answer": "Tsukuyomi"
+  },
+  {
+    "question": "Quel jinchūriki a été capturé vivant par l’Akatsuki avant de mourir plus tard ?",
+    "answer": "Yugito Nii"
+  },
+  {
+    "question": "Quelle technique Nagato utilise-t-il pour ressusciter les habitants de Konoha ?",
+    "answer": "Rinne Tensei"
+  },
+  {
+    "question": "Quel est le vrai nom du Pain principal, autrefois ami de Nagato ?",
+    "answer": "Yahiko"
+  },
+  {
+    "question": "Qui a tué Konan dans les scans ?",
+    "answer": "Obito"
+  },
+  {
+    "question": "Quelle technique Obito utilise-t-il pour se rendre intangible ?",
+    "answer": "Kamui"
+  },
+  {
+    "question": "Comment s'appelle la mère de Naruto ?",
+    "answer": "Kushina Uzumaki"
+  },
+  {
+    "question": "Quel est le nom du clan originel de Nagato ?",
+    "answer": "Uzumaki"
+  },
+  {
+    "question": "Quelle est la dernière chose qu'Itachi dit à Sasuke avant de mourir ?",
+    "answer": "Pardon, Sasuke. Il n'y aura pas de prochaine fois."
+  },
+  {
+    "question": "Quel est le nom de l’arme que Tenten récupère parmi les trésors du Sage des Six Chemins ?",
+    "answer": "Bashōsen"
+  },
+  {
+    "question": "Quel est le nom du dieu invoqué par Madara avec le Rinnegan pour piéger les Bijû ?",
+    "answer": "Gedō Mazō"
+  },
+  {
+    "question": "Quel est le nom complet de la sœur du Raikage ?",
+    "answer": "Karui"
+  },
+  {
+    "question": "Qui était le sensei de Yahiko, Konan et Nagato ?",
+    "answer": "Jiraya"
+  },
+  {
+    "question": "Comment s’appelle la fille de Kurenai et Asuma ?",
+    "answer": "Mirai Sarutobi"
+  },
+  {
+    "question": "Quel est le nom du parchemin contenant les secrets des Uchiha, lu par Sasuke au repaire de Naka ?",
+    "answer": "Tablette de pierre"
+  },
+  {
+    "question": "Quel est le véritable nom de Tobi ?",
+    "answer": "Obito Uchiha"
+  },
+  {
+    "question": "Qui est le jinchūriki du démon à six queues ?",
+    "answer": "Utakata"
+  },
+  {
+    "question": "Quel est le nom du père de Sai ?",
+    "answer": "Inconnu"
+  },
+  {
+    "question": "Quelle est la nature de chakra principale de Yamato ?",
+    "answer": "Mokuton"
+  },
+  {
+    "question": "Comment s'appelle l’attaque que Madara utilise pour faire tomber deux météorites ?",
+    "answer": "Tengai Shinsei"
+  },
+  {
+    "question": "Qui a scellé Kyūbi dans Naruto à sa naissance ?",
+    "answer": "Minato Namikaze"
+  },
+  {
+    "question": "Quel est le nom du clan de Kimimaro ?",
+    "answer": "Kaguya"
+  },
+  {
+    "question": "Quelle capacité le Rinnegan confère-t-il à Nagato en plus du contrôle des corps ?",
+    "answer": "Maîtrise de toutes les natures de chakra"
+  },
+  {
+    "question": "Qui a enseigné à Nagato l’utilisation du Rinnegan ?",
+    "answer": "Jiraya"
+  },
+  {
+    "question": "Quel est le nom du détecteur sensoriel d’Ame utilisé par Pain ?",
+    "answer": "Chikushōdō"
+  },
+  {
+    "question": "Quel est le nom de la technique finale de Might Guy ?",
+    "answer": "Hachimon Tonkō no Jin"
+  },
+  {
+    "question": "Comment s'appelle la technique de Sasuke qui combine Amaterasu et Kagutsuchi ?",
+    "answer": "Enton"
+  },
+  {
+    "question": "Quel était le code secret que Jiraya laisse avant de mourir ?",
+    "answer": "La vraie identité de Pain"
+  },
+  {
+    "question": "Quel personnage utilise la technique 'Jashin' ?",
+    "answer": "Hidan"
+  },
+  {
+    "question": "Quel est le nom du clone de bois de Zetsu utilisé pour espionner ?",
+    "answer": "Zetsu Blanc"
+  },
+  {
+    "question": "Quel bijû a été scellé dans Gaara ?",
+    "answer": "Shukaku"
+  },
+  {
+    "question": "Quelle est la particularité de l’œil gauche de Danzo ?",
+    "answer": "Sharingan de Shisui"
+  },
+  {
+    "question": "Quel est le nom de l’épée de Kisame ?",
+    "answer": "Samehada"
+  },
+  {
+    "question": "Qui a réveillé le Rinnegan après Madara ?",
+    "answer": "Sasuke"
+  },
+  {
+    "question": "Qui a scellé Kaguya avec Naruto et Sasuke ?",
+    "answer": "Hagoromo Otsutsuki"
+  },
+  {
+    "question": "Quel est le vrai nom de Tobi avant de devenir Obito ?",
+    "answer": "Obito Uchiwa"
+  },
+  {
+    "question": "Quelle technique permet de créer un clone capable de ressentir des douleurs ?",
+    "answer": "Kage Bunshin no Jutsu"
+  }
 ]
