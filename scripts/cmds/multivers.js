@@ -18,7 +18,9 @@ module.exports = {
   },
 
   onStart: async function ({ message, event, args, commandName, getLang }) {
-    const filePath = path.join(__dirname, "data", "multivers.json");
+    // Chemin vers le fichier JSON dans Scripts/data/
+    const filePath = path.join(__dirname, "..", "Scripts", "data", "multivers.json");
+
     if (!fs.existsSync(filePath)) {
       return message.reply("❌ Le fichier multivers.json est introuvable.");
     }
@@ -46,8 +48,6 @@ module.exports = {
 
     message.reply("🎯 Bienvenue dans le **Quiz Multivers** !\nEnvoyez `!start` pour commencer ou `!stop` pour arrêter.");
     
-    const listener = message.reply;
-
     global.GoatBot.onReply.set(event.threadID, {
       commandName,
       messageID: event.messageID,
@@ -78,4 +78,4 @@ module.exports = {
       }
     });
   }
-  };
+};
