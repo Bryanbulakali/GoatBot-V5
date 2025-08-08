@@ -1,0 +1,122 @@
+[
+  {
+    "question": "♣️🔰Naruto🔰♣️\n\nQ1: Quel est le vrai nom du créateur du Rasengan ?",
+    "answer": ["Minato Namikaze"]
+  },
+  {
+    "question": "♣️🔰One Piece🔰♣️\n\nQ2: Quelle est la prime actuelle de Monkey D. Luffy après la chute de Kaido ?",
+    "answer": ["3 milliards de berrys", "3000000000"]
+  },
+  {
+    "question": "♣️🔰Bleach🔰♣️\n\nQ3: Quel est le nom complet du Zanpakutō de Tōshirō Hitsugaya ?",
+    "answer": ["Hyorinmaru"]
+  },
+  {
+    "question": "♣️🔰Dragon Ball Z🔰♣️\n\nQ4: Qui a enseigné la technique de la fusion à Goku et Vegeta ?",
+    "answer": ["Metamoran", "Les Metamorans"]
+  },
+  {
+    "question": "♣️🔰Black Clover🔰♣️\n\nQ5: Quel démon réside dans le grimoire d'Asta ?",
+    "answer": ["Liebe"]
+  },
+  {
+    "question": "♣️🔰My Hero Academia🔰♣️\n\nQ6: Comment s'appelle le frère aîné d'All For One ?",
+    "answer": ["Yoichi Shigaraki"]
+  },
+  {
+    "question": "♣️🔰Attack on Titan🔰♣️\n\nQ7: Quel est le vrai nom du Titan Assaillant ?",
+    "answer": ["Eren Jäger", "Eren Yeager"]
+  },
+  {
+    "question": "♣️🔰Fullmetal Alchemist🔰♣️\n\nQ8: Quel est le nom de l’homunculus né de la tentative de ramener la mère des frères Elric ?",
+    "answer": ["Sloth"]
+  },
+  {
+    "question": "♣️🔰Demon Slayer🔰♣️\n\nQ9: Qui est le pilier de la brume ?",
+    "answer": ["Muichiro Tokito"]
+  },
+  {
+    "question": "♣️🔰Jujutsu Kaisen🔰♣️\n\nQ10: Quel est le nom de la technique ultime de Gojo Satoru ?",
+    "answer": ["Mugen", "Infinity", "Illimité"]
+  },
+  {
+    "question": "♣️🔰Naruto🔰♣️\n\nQ11: Qui a tué Hiruzen Sarutobi ?",
+    "answer": ["Orochimaru"]
+  },
+  {
+    "question": "♣️🔰One Piece🔰♣️\n\nQ12: Quel est le nom de l'épée légendaire de Dracule Mihawk ?",
+    "answer": ["Yoru"]
+  },
+  {
+    "question": "♣️🔰Bleach🔰♣️\n\nQ13: Quel est le véritable objectif de Sosuke Aizen ?",
+    "answer": ["Devenir l'être suprême", "Prendre le trône du roi des âmes"]
+  },
+  {
+    "question": "♣️🔰Dragon Ball Super🔰♣️\n\nQ14: Quel est le nom de l’ange qui entraîne Beerus ?",
+    "answer": ["Whis"]
+  },
+  {
+    "question": "♣️🔰Black Clover🔰♣️\n\nQ15: Quel royaume attaque Clover au tout début de la série ?",
+    "answer": ["Le royaume de Diamond", "Diamond"]
+  },
+  {
+    "question": "♣️🔰My Hero Academia🔰♣️\n\nQ16: Quel héros porte le nom de Hawks ?",
+    "answer": ["Keigo Takami"]
+  },
+  {
+    "question": "♣️🔰Attack on Titan🔰♣️\n\nQ17: Quel titan est possédé par Reiner Braun ?",
+    "answer": ["Titan Cuirassé"]
+  },
+  {
+    "question": "♣️🔰Fullmetal Alchemist🔰♣️\n\nQ18: Quel est le nom du père biologique d’Edward et Alphonse ?",
+    "answer": ["Van Hohenheim"]
+  },
+  {
+    "question": "♣️🔰Demon Slayer🔰♣️\n\nQ19: Qui est le créateur des démons ?",
+    "answer": ["Muzan Kibutsuji"]
+  },
+  {
+    "question": "♣️🔰Jujutsu Kaisen🔰♣️\n\nQ20: Quel doigt de Sukuna Yuji possède-t-il au tout début ?",
+    "answer": ["Un seul doigt"]
+  },
+  {
+    "question": "♣️🔰Naruto🔰♣️\n\nQ21: Qui a été le premier jinchūriki de Kurama ?",
+    "answer": ["Mito Uzumaki"]
+  },
+  {
+    "question": "♣️🔰One Piece🔰♣️\n\nQ22: Comment se nomme la ville sous-marine où vit l'île des Hommes-Poissons ?",
+    "answer": ["Ryugu"]
+  },
+  {
+    "question": "♣️🔰Bleach🔰♣️\n\nQ23: Qui est le capitaine de la 4e division au début de l’histoire ?",
+    "answer": ["Retsu Unohana"]
+  },
+  {
+    "question": "♣️🔰Dragon Ball Z🔰♣️\n\nQ24: Qui tue Cell lors du tournoi final ?",
+    "answer": ["Gohan"]
+  },
+  {
+    "question": "♣️🔰Black Clover🔰♣️\n\nQ25: Comment s’appelle le capitaine des Black Bulls ?",
+    "answer": ["Yami Sukehiro"]
+  },
+  {
+    "question": "♣️🔰My Hero Academia🔰♣️\n\nQ26: Quelle est l’altération de Tomura Shigaraki ?",
+    "answer": ["Désintégration"]
+  },
+  {
+    "question": "♣️🔰Attack on Titan🔰♣️\n\nQ27: Comment s'appelle le père d'Eren ?",
+    "answer": ["Grisha Jäger", "Grisha Yeager"]
+  },
+  {
+    "question": "♣️🔰Fullmetal Alchemist🔰♣️\n\nQ28: Quel élément Roy Mustang manipule-t-il ?",
+    "answer": ["Feu"]
+  },
+  {
+    "question": "♣️🔰Demon Slayer🔰♣️\n\nQ29: Qui est le frère de Nezuko Kamado ?",
+    "answer": ["Tanjirō Kamado"]
+  },
+  {
+    "question": "♣️🔰Jujutsu Kaisen🔰♣️\n\nQ30: Quelle est la technique interdite de Kinji Hakari ?",
+    "answer": ["Immortalité temporaire"]
+  }
+    ]
